@@ -16,3 +16,5 @@ this demo uses a basic [json-server](https://github.com/typicode/json-server#pag
 ## Requirements
 1. Smooth scrolling
 2. Scalable (support extremely high amount of users)
+
+Good Luck!
