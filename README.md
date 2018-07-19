@@ -6,7 +6,7 @@ In this challenge you will create a react & redux app with a virtualized infinit
 
 ## Task 1 - Basic
 1. Install redux, and create the needed redux reducers/actions/etc... to paginate the server and load data.
-2. Implement an infinite scroll virtualized list component that will load data from the server via redux.
+2. Implement an infinite scroll (data is lazy loaded) virtualized list component that will load data from the server via redux.
 3. Display a list of **users** using the component. A user's row should include the firstName, lastName, and catchPhrase fields.
 
 **Note:** You can use external libraries such as [react-virtualized] (https://github.com/bvaughn/react-virtualized) for virtualization and infinite scroll.
