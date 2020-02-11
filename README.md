@@ -4,20 +4,21 @@ Code Ocean Frontend Developer Challenge
 ## General
 In this challenge you will create a react & redux app with a virtualized infinite scroll list.
 
-## Task 1 - Basic
+## Task - Basic
 1. Install redux, and create the needed redux reducers/actions/etc... to paginate the server and load data.
 2. Implement an infinite scroll (data is lazy loaded) virtualized list component that will load data from the server via redux.
-3. Display a list of **users** using the component. A user's row should include the firstName, lastName, and catchPhrase fields.
+3. Display a list of **users** using the list component. A user item should include all fields, but `id`.
+Use a design library that offers react components to style the list.
 
 **Note:** You can use external libraries such as [react-virtualized] (https://github.com/bvaughn/react-virtualized) for virtualization and infinite scroll.
 
-## Task 2 - Advanced
+## Task - Advanced (if you're bored)
 * Add a second list of **reviewers** to the app reusing the component and reducer you've created in **Task 1**.
 * Both lists should appear side by side, and load data from their respective api endpoints.
 
 ## Finishing the challenge
 * Zip the challenge's folder (without the **node_modules** folder).
-* Send the zip file to [mordy@codeocean.com](mailto:mordy@codeocean.com).
+* Send the zip file to [ori@codeocean.com](mailto:ori@codeocean.com).
 
 ## Technical Info
 
