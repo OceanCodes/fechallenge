@@ -34,5 +34,6 @@ Use a design library that offers react components to style the list.
 #### Requirements
 1. Smooth scrolling
 2. Scalable (support extremely high amount of users)
+3. Function components and hooks instead of class components
 
 Good Luck!
