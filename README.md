@@ -10,7 +10,7 @@ In this challenge you will create a react & redux app with a virtualized infinit
 3. Display a list of **users** using the list component. A user item should include all fields, but `id`.
 Use a design library that offers react components to style the list.
 
-**Note:** You can use external libraries such as [react-virtualized] (https://github.com/bvaughn/react-virtualized) for virtualization and infinite scroll.
+**Note:** You can use external libraries such as [react-virtual](https://github.com/tannerlinsley/react-virtual), [react-window](https://github.com/bvaughn/react-window), or [react-virtualized](https://github.com/bvaughn/react-virtualized) for virtualization and infinite scroll.
 
 ## Task - Advanced (if you're bored)
 * Add a second list of **reviewers** to the app reusing the component and reducer you've created in **Task 1**.
@@ -23,9 +23,8 @@ Use a design library that offers react components to style the list.
 ## Technical Info
 
 #### How to start
-1. Clone this repository.
-2. Install the dependencies.
-3. Run `npm start` to start the app on port `3000`, and the server on port `3001`.
+1. Install the dependencies.
+2. Run `npm start` to start the app on port `3000`, and the server on port `3001`.
 
 #### API
 * Users are available on `localhost:3001/users`
