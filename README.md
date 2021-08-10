@@ -29,7 +29,7 @@ Use a design library that offers react components to style the list.
 #### API
 * Users are available on `localhost:3001/users`
 * Reviewers are available on `localhost:3001/reviewers`
-* This demo uses a basic [json-server] (https://github.com/typicode/json-server#paginate)
+* This demo uses a basic [json-server](https://github.com/typicode/json-server#paginate)
 
 #### Requirements
 1. Smooth scrolling
