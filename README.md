@@ -18,7 +18,7 @@ Use a design library that offers react components to style the list.
 
 ## Finishing the challenge
 * Zip the challenge's folder (without the **node_modules** folder).
-* Send the zip file to [ori@codeocean.com](mailto:ori@codeocean.com).
+* Send the zip file to [ori@codeocean.com](mailto:ori@codeocean.com) & [shem@codeocean.com](mailto:shem@codeocean.com).
 
 ## Technical Info
 
