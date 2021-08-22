@@ -1,0 +1,110 @@
+.a-card-container {
+  margin-top: 15px;
+  margin-left: 10px;
+  height: 23.5rem;
+  width: 32.75rem;
+  height: 32.5rem;
+}
+
+.card-pic {
+  align-self: center;
+}
+
+.card-link {
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .a-card-container {
+    width: 24.75rem;
+    height: 32.5rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .a-card-container {
+    width: 18.75rem;
+    height: 32.5rem;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .a-card-container {
+    width: 14.75rem;
+    height: 27.5rem;
+    font-size: 0.75rem;
+  }
+}
+
+@media screen and (max-width: 573px) {
+  .a-card-container {
+    width: 11.75rem;
+    height: 32.5rem;
+    font-size: 0.75rem;
+  }
+  .card-link {
+    font-size: 0.65rem;
+    left: 7px;
+  }
+}
+
+@media screen and (max-width: 477px) {
+  .a-card-container {
+    width: 9.75rem;
+    height: 32.5rem;
+    font-size: 0.75rem;
+  }
+
+  .card-title {
+    font-size: 1rem;
+  }
+
+  .card-sub {
+    font-size: 0.75rem;
+  }
+
+  .card-link {
+    font-size: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 413px) {
+  .a-card-container {
+    width: 8.75rem;
+    height: 32.5rem;
+    font-size: 0.7rem;
+  }
+
+  .card-title {
+    font-size: 1rem;
+  }
+
+  .card-sub {
+    font-size: 0.75rem;
+  }
+
+  .card-link {
+    font-size: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 381px) {
+  .a-card-container {
+    width: 7.75rem;
+    height: 32.5rem;
+    font-size: 0.65rem;
+  }
+
+  .card-title {
+    font-size: 0.8rem;
+  }
+
+  .card-sub {
+    font-size: 0.7rem;
+  }
+
+  .card-link {
+    font-size: 0.4rem;
+  }
+}
